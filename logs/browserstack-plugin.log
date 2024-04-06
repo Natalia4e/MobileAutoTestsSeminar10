@@ -1,0 +1,10 @@
+18:14:45.085 [ApplicationImpl pooled thread 75] INFO  c.b.l.BrowserStackRunExtension - junit
+18:14:45.088 [ApplicationImpl pooled thread 75] INFO  com.browserstack.utils.Helpers - null
+18:14:45.090 [ApplicationImpl pooled thread 75] INFO  com.browserstack.utils.Helpers - C:/Users/chena/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.19/browserstack-java-sdk-1.13.19.jar
+18:14:45.090 [ApplicationImpl pooled thread 75] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/chena/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.19/browserstack-java-sdk-1.13.19.jar
+18:14:45.091 [ApplicationImpl pooled thread 75] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:16:38.940 [ApplicationImpl pooled thread 73] INFO  c.b.l.BrowserStackRunExtension - junit
+18:16:38.940 [ApplicationImpl pooled thread 73] INFO  com.browserstack.utils.Helpers - null
+18:16:38.946 [ApplicationImpl pooled thread 73] INFO  com.browserstack.utils.Helpers - C:/Users/chena/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.19/browserstack-java-sdk-1.13.19.jar
+18:16:38.946 [ApplicationImpl pooled thread 73] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/chena/.m2/repository/com/browserstack/browserstack-java-sdk/1.13.19/browserstack-java-sdk-1.13.19.jar
+18:16:38.946 [ApplicationImpl pooled thread 73] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
